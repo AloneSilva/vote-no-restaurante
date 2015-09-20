@@ -1,0 +1,21 @@
+.texto{
+	text-align : center;
+}
+
+.container{
+	padding-top : 100px;
+	text-align : center;
+}
+
+.imagem{
+	width: 200px;
+	height: 200px;
+}
+
+.botao{
+	padding-top: 50px;
+}
+
+.form-control{
+	width : 300px;
+}
